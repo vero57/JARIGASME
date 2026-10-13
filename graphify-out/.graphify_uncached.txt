@@ -1,0 +1,8 @@
+C:\Users\yosua\OneDrive\Dokumen\NGODING\FE\jarigasme\AGENTS.md
+C:\Users\yosua\OneDrive\Dokumen\NGODING\FE\jarigasme\README.md
+C:\Users\yosua\OneDrive\Dokumen\NGODING\FE\jarigasme\index.html
+C:\Users\yosua\OneDrive\Dokumen\NGODING\FE\jarigasme\public\file.svg
+C:\Users\yosua\OneDrive\Dokumen\NGODING\FE\jarigasme\public\globe.svg
+C:\Users\yosua\OneDrive\Dokumen\NGODING\FE\jarigasme\public\next.svg
+C:\Users\yosua\OneDrive\Dokumen\NGODING\FE\jarigasme\public\vercel.svg
+C:\Users\yosua\OneDrive\Dokumen\NGODING\FE\jarigasme\public\window.svg

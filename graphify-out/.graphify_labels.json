@@ -1,0 +1,16 @@
+{
+  "0": "Linting & Dev Dependencies",
+  "1": "Core Framework Dependencies",
+  "2": "NPM Lifecycle Scripts",
+  "3": "Root Layout & Font Configuration",
+  "4": "Documentation & Branding Assets",
+  "5": "Package Manifest Metadata",
+  "6": "TypeScript/JS Path Aliases",
+  "7": "ESLint Configuration",
+  "8": "JARIGASME Lab JRG-01 Switch Landing",
+  "9": "Next.js Build Configuration",
+  "10": "Home Page Application View",
+  "11": "File Icon Asset",
+  "12": "Globe Icon Asset",
+  "13": "Window Icon Asset"
+}

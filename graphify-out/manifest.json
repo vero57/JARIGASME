@@ -1,0 +1,72 @@
+{
+  "eslint.config.mjs": {
+    "mtime": 1791786489.0965343,
+    "ast_hash": "bcb00e240634dd9448e57386fdff1902",
+    "semantic_hash": "bcb00e240634dd9448e57386fdff1902"
+  },
+  "jsconfig.json": {
+    "mtime": 1791786489.988485,
+    "ast_hash": "373b4d3b81ad935084b8292c8233423e",
+    "semantic_hash": "373b4d3b81ad935084b8292c8233423e"
+  },
+  "next.config.mjs": {
+    "mtime": 1791786489.988485,
+    "ast_hash": "e30b8dfc931340881a3bcd14733559e5",
+    "semantic_hash": "e30b8dfc931340881a3bcd14733559e5"
+  },
+  "package.json": {
+    "mtime": 1791786490.020476,
+    "ast_hash": "805de4d60210f34a8b948b3d4fc5bd20",
+    "semantic_hash": "805de4d60210f34a8b948b3d4fc5bd20"
+  },
+  "src/app/layout.js": {
+    "mtime": 1791786488.816471,
+    "ast_hash": "8b4efc84c2091d4ec241a5cf7cdb2777",
+    "semantic_hash": "8b4efc84c2091d4ec241a5cf7cdb2777"
+  },
+  "src/app/page.js": {
+    "mtime": 1791786490.020476,
+    "ast_hash": "6d0c31cf490019e2e16630651e71f6f0",
+    "semantic_hash": "6d0c31cf490019e2e16630651e71f6f0"
+  },
+  "AGENTS.md": {
+    "mtime": 1791786926.7236345,
+    "ast_hash": "c98dbebb744eadc1acc4b9f58bfe0f42",
+    "semantic_hash": "c98dbebb744eadc1acc4b9f58bfe0f42"
+  },
+  "README.md": {
+    "mtime": 1791786489.0168688,
+    "ast_hash": "ff47271e53637b2ba6ba72ad2b70f6d7",
+    "semantic_hash": "ff47271e53637b2ba6ba72ad2b70f6d7"
+  },
+  "index.html": {
+    "mtime": 1791787239.5346804,
+    "ast_hash": "778f61fa396e6490d5a12d849974200a",
+    "semantic_hash": "778f61fa396e6490d5a12d849974200a"
+  },
+  "public/file.svg": {
+    "mtime": 1791786489.1853068,
+    "ast_hash": "d09f95206c3fa0bb9bd9fefabfd0ea71",
+    "semantic_hash": "d09f95206c3fa0bb9bd9fefabfd0ea71"
+  },
+  "public/globe.svg": {
+    "mtime": 1791786489.21414,
+    "ast_hash": "2aaafa6a49b6563925fe440891e32717",
+    "semantic_hash": "2aaafa6a49b6563925fe440891e32717"
+  },
+  "public/next.svg": {
+    "mtime": 1791786489.2334375,
+    "ast_hash": "8e061864f388b47f33a1c3780831193e",
+    "semantic_hash": "8e061864f388b47f33a1c3780831193e"
+  },
+  "public/vercel.svg": {
+    "mtime": 1791786489.258575,
+    "ast_hash": "c0af2f507b369b085b35ef4bbe3bcf1e",
+    "semantic_hash": "c0af2f507b369b085b35ef4bbe3bcf1e"
+  },
+  "public/window.svg": {
+    "mtime": 1791786489.2888935,
+    "ast_hash": "a2760511c65806022ad20adf74370ff3",
+    "semantic_hash": "a2760511c65806022ad20adf74370ff3"
+  }
+}
