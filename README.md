@@ -2,6 +2,8 @@
 
 Landing page produk untuk **JRG-01 Linear**, mechanical keyboard switch buatan JARIGASME LAB. Dibangun dengan Next.js 16 dan Tailwind CSS 4, mendukung tiga bahasa (EN / ID / JA).
 
+DEMO https://jarigasme.vercel.app/
+
 ---
 
 ## Daftar Isi
