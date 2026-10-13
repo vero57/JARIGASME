@@ -276,5 +276,4 @@ File `next.config.mjs` mengaktifkan beberapa fitur:
 ## Lisensi
 
 © 2026 JARIGASME LAB ARCHITECTURE. All rights reserved.
-#   J A R I G A S M E  
- 
+#
